@@ -1,0 +1,21 @@
+@media (max-width: 1200px) {
+    .menu .menu-list .menu-list-item{
+
+  }
+}
+@media (max-width: 991px) {
+    .menu .menu-list .menu-list-item {
+    }
+}
+@media (max-width: 767px) {
+    .menu .menu-list .menu-list-item{
+     }
+}
+@media (max-width:521px) {
+    .menu .menu-list .menu-list-item{
+     }
+}
+@media (max-width: 320px) {
+    .menu .menu-list .menu-list-item {
+    }
+}
